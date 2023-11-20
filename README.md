@@ -1,6 +1,6 @@
 # BlockSim
 
-## Blockchain Adventure - A Gamified Blockchain Learning Experience
+## Blockchain Adventure Simulator - A Gamified Blockchain Learning Experience
 
 Project Objective: To simplify and demystify blockchain technology for newcomers through an interactive game. This game will familiarize players with various blockchain concepts and products, such as DEXes, staking, and trading, using a playful and educational approach.
 
