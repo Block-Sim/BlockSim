@@ -11,14 +11,15 @@ Project Objective: To simplify and demystify blockchain technology for newcomers
 - The ultimate goal is to increase portfolio value, with the risk of 'game over' if the balance reaches zero.
 - AI-driven chatbots, styled like WhatsApp conversations, represent different blockchain protocols (e.g., ChainLinkNPC, PolygonNPC, AvalancheNPC). These chatbots provide information about the protocols and offer trading tips.
 - The game includes a market-making bot that dynamically adjusts token values in the background, simulating real market conditions.
-- Development Requirements:
 
-## DEX Setup: Implement a DEX platform, possibly using Uniswap v2 architecture.
-1. Token Deployment: Create and deploy simulated tokens (e.g., Matic, Link, AVAX, ETH) and establish pools on the DEX.
-2. NFT and Token Contract: Develop a smart contract for minting NFTs, which also credits 1000 “wETH” to the player's account upon purchase.
-3. Market Maker Bot: Develop a backend bot to simulate market conditions by adjusting pool values through buying and selling actions.
-4. Chatbot Content Creation: Design chatbot scripts to provide protocol information and trading tips, linked to market movements simulated by the market maker bot.
-5. Frontend Development: Create an intuitive and user-friendly interface for the DEX and chatbot interactions.
+## Development Requirements:
+
+1. DEX Setup: Implement a DEX platform, possibly using Uniswap v2 architecture.
+2. Token Deployment: Create and deploy simulated tokens (e.g., Matic, Link, AVAX, ETH) and establish pools on the DEX.
+3. NFT and Token Contract: Develop a smart contract for minting NFTs, which also credits 1000 “wETH” to the player's account upon purchase.
+4. Market Maker Bot: Develop a backend bot to simulate market conditions by adjusting pool values through buying and selling actions.
+5. Chatbot Content Creation: Design chatbot scripts to provide protocol information and trading tips, linked to market movements simulated by the market maker bot.
+6. Frontend Development: Create an intuitive and user-friendly interface for the DEX and chatbot interactions.
 
 ## Monetization Strategy: 
 Revenue will be generated through the sale of NFTs (game entry tickets) and partnerships with various blockchain protocols to feature their products within the game. This not only introduces players to these protocols but also serves as an educational tool for their offerings.
